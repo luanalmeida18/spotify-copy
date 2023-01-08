@@ -5,4 +5,4 @@ Layout feito como modelo de aprendizado utilizando a ferramenta BootStrap.
 
 link do preview do modelo:
 
-<a href="http://spotify-luanalmeida18.netlify.app">Clique Aqui!</a>
+<a href="http://spotify-luanalmeida18.netlify.app" target="_blank">Clique Aqui!</a>
